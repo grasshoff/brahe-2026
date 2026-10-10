@@ -1,0 +1,96 @@
+{
+ "slug": "brahe",
+ "facts": {
+  "n_tomi": {
+   "value": 14,
+   "source": "PDAI braheOO: braheOO-NN.pdf (pdfinfo) and production page_NNN.xml"
+  },
+  "transcribed_vols": {
+   "value": 1,
+   "source": "PDAI braheOO: braheOO-NN.pdf (pdfinfo) and production page_NNN.xml"
+  },
+  "transcribed_pages": {
+   "value": 402,
+   "source": "PDAI braheOO: braheOO-NN.pdf (pdfinfo) and production page_NNN.xml"
+  },
+  "n_open_tomi": {
+   "value": 13,
+   "source": "PDAI braheOO: braheOO-NN.pdf (pdfinfo) and production page_NNN.xml"
+  },
+  "scan_pages": {
+   "value": 5462,
+   "source": "PDAI braheOO: braheOO-NN.pdf (pdfinfo) and production page_NNN.xml"
+  },
+  "nr_gap": {
+   "value": 14,
+   "source": "PDAI braheOO: braheOO-NN.pdf (pdfinfo) and production page_NNN.xml; filename numbers between the lowest and highest file"
+  },
+  "n_gaps": {
+   "value": 1,
+   "source": "PDAI braheOO: braheOO-NN.pdf (pdfinfo) and production page_NNN.xml"
+  },
+  "tomus1_title": {
+   "value": "Tychonis Brahe Dani Scripta astronomica",
+   "source": "/Users/friedrichstr/ai-mac-studio/pdai/collections/braheOO/config/bibliography.yaml: braheOO-01.title"
+  },
+  "year_tomus1": {
+   "value": 1913,
+   "source": "/Users/friedrichstr/ai-mac-studio/pdai/collections/braheOO/config/bibliography.yaml: braheOO-01.year"
+  },
+  "place_tomus1": {
+   "value": "Hauniae",
+   "source": "/Users/friedrichstr/ai-mac-studio/pdai/collections/braheOO/config/bibliography.yaml: braheOO-01.address"
+  },
+  "publisher_tomus1": {
+   "value": "In libraria Gyldendaliana",
+   "source": "/Users/friedrichstr/ai-mac-studio/pdai/collections/braheOO/config/bibliography.yaml: braheOO-01.publisher"
+  },
+  "figures_tomus1": {
+   "value": 49,
+   "source": "/Users/friedrichstr/ai-mac-studio/pdai/collections/braheOO/quality/braheOO-01/tag_hierarchy_protocol.json: pages_index, production pages"
+  },
+  "tables_tomus1": {
+   "value": 148,
+   "source": "/Users/friedrichstr/ai-mac-studio/pdai/collections/braheOO/quality/braheOO-01/tag_hierarchy_protocol.json: pages_index, production pages"
+  },
+  "loop_rep": {
+   "value": 2,
+   "source": "/Users/friedrichstr/ai-mac-studio/pdai/collections/braheOO/quality/braheOO-01_defects.json: queued_for_postprocess, production pages, code LOOP-REP"
+  },
+  "loop_pages": {
+   "value": "251, 360",
+   "source": "/Users/friedrichstr/ai-mac-studio/pdai/collections/braheOO/quality/braheOO-01_defects.json: page numbers"
+  },
+  "nr_blatt_titel": {
+   "value": 10,
+   "source": "braheOO-01 page folder index of the gallery leaf"
+  },
+  "nr_blatt_bildnis": {
+   "value": 12,
+   "source": "braheOO-01 page folder index of the gallery leaf"
+  },
+  "nr_blatt_vorrede": {
+   "value": 15,
+   "source": "braheOO-01 page folder index of the gallery leaf"
+  },
+  "nr_blatt_brief": {
+   "value": 82,
+   "source": "braheOO-01 page folder index of the gallery leaf"
+  },
+  "nr_blatt_tafeln": {
+   "value": 120,
+   "source": "braheOO-01 page folder index of the gallery leaf"
+  },
+  "header_tafeln": {
+   "value": "DE NOVA STELLA 47",
+   "source": "/Volumes/PDAI-1/pdai-collections/braheOO/braheOO-01/pages/page_120/page_120.xml: header"
+  },
+  "folio_brief": {
+   "value": "4 v",
+   "source": "/Volumes/PDAI-1/pdai-collections/braheOO/braheOO-01/pages/page_082/page_082.xml: marginal type=folio"
+  }
+ },
+ "notes": [
+  "Printed titles of tomi other than braheOO-01 are not in bibliography.yaml and are not filled in."
+ ]
+}
